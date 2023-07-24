@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @LukaszJanisiow
-
+- 📚 I'm studying Data Science and Business Analytics
+- 🚀 CS50AI in progress
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
