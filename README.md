@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @LukaszJanisiow
 - 📚 I'm studying Data Science and Business Analytics
-- 🚀 CS50AI in progress
+- 🚀 CS50AI done
+- 🎓 Research project "Modeling socio-economic development at the regional and local level using machine learning based on satellite imagery" in progress
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
